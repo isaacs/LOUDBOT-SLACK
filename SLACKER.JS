@@ -1,5 +1,5 @@
 var
-    SLACKBOT = require('./SLACKBOT.js'),
+    SLACKBOT = require('./SLACKBOT.JS'),
     RESTIFY  = require('restify')
     ;
 

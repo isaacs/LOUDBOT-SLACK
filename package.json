@@ -2,25 +2,24 @@
   "name": "loudbot-slack",
   "version": "0.0.2",
   "description": "LOUDBOT FOR SLACK.COM CHAT",
-  "main": "SLACKER.js",
+  "main": "SLACKER.JS",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node SLACKER.js"
+    "start": "node SLACKER.JS"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ceejbot/LOUDBOT-SLACK.git"
+    "url": "git://GITHUB.COM/CEEJBOT/LOUDBOT-SLACK.GIT"
   },
   "keywords": [
     "LOUDBOT",
-    "slack"
+    "SLACK"
   ],
-  "author": "C J Silverio <ceejceej@gmail.com>",
+  "author": "C J SILVERIO <CEEJCEEJ@GMAIL.COM>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ceejbot/LOUDBOT-SLACK/issues"
+    "url": "HTTPS://GITHUB.COM/CEEJBOT/LOUDBOT-SLACK/ISSUES"
   },
-  "homepage": "https://github.com/ceejbot/LOUDBOT-SLACK",
+  "homepage": "HTTPS://GITHUB.COM/CEEJBOT/LOUDBOT-SLACK",
   "dependencies": {
     "restify": "^2.6.2"
   }
